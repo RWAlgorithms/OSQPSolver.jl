@@ -1,3 +1,3 @@
-# MinimalistOSQP.jl
+# OSQPSolver.jl
 
-Documentation for MinimalistOSQP.jl
+Documentation for OSQPSolver.jl

@@ -15,4 +15,4 @@ import BSON
 import OSQP
 
 using Revise
-import LightOSQP
+import OSQPSolver

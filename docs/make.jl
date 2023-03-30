@@ -1,10 +1,10 @@
 using Documenter
-using MinimalistOSQP
+using OSQPSolver
 
 makedocs(
     sitename = "OSQPSolver",
     format = Documenter.HTML(),
-    modules = [MinimalistOSQP]
+    modules = [OSQPSolver]
 )
 
 # Documenter can also automatically deploy documentation to gh-pages.
