@@ -1,4 +1,4 @@
-module LightOSQP
+module OSQPSolver
 
 greet() = print("Hello World!")
 

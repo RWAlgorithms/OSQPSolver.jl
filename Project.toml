@@ -1,4 +1,4 @@
-name = "LightOSQP"
+name = "OSQPSolver"
 uuid = "dea5e28b-b94b-41b0-b0cf-37798b83c4b3"
 authors = ["Roy Wang"]
 version = "0.1.0"

@@ -2,7 +2,7 @@ using Documenter
 using MinimalistOSQP
 
 makedocs(
-    sitename = "MinimalistOSQP",
+    sitename = "OSQPSolver",
     format = Documenter.HTML(),
     modules = [MinimalistOSQP]
 )
