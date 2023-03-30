@@ -84,3 +84,4 @@ println("Timing:")
 
 # next, write test script for BLS, and projection problem.
 # then work on improving the speed of solve!().
+# solution polishing might be neccessary.
